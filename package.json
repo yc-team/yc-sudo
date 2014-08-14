@@ -1,0 +1,24 @@
+{
+  "name": "yc-sudo",
+  "version": "0.0.1",
+  "description": "yc tool for showing sudo info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yc-team/yc-sudo.git"
+  },
+  "dependencies": {
+  },
+  "keywords": [
+    "yc",
+    "sudo"
+  ],
+  "author": "zhangyaochun",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/yc-team/yc-sudo/issues"
+  }
+}
